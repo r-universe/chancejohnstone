@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "piRF"]
+	path = piRF
+	url = https://github.com/chancejohnstone/pirf
+	shallow = true
+	registered = true
